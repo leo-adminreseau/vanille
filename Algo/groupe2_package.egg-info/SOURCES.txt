@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+groupe2_package/__init__.py
+groupe2_package/utils_groupe2.py
+groupe2_package.egg-info/PKG-INFO
+groupe2_package.egg-info/SOURCES.txt
+groupe2_package.egg-info/dependency_links.txt
+groupe2_package.egg-info/requires.txt
+groupe2_package.egg-info/top_level.txt
